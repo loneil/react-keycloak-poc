@@ -1,0 +1,8 @@
+{
+    "auth-server-url": "https://sso-dev.pathfinder.gov.bc.ca/auth",
+    "realm": "98r0z7rz",
+    "resource": "react-kcjs-poc",
+    "ssl-required": "external",
+    "public-client": true,
+    "confidential-port": 0
+  }
